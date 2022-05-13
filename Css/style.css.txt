@@ -1,3 +1,0 @@
-body {
-  font_wight: 100px;
-}
