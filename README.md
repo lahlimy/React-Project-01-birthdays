@@ -1,10 +1,6 @@
-# React Project
-my project react 
+## install npm
+    npm i 
+## run react project
+    npm start
 
-
-## Corresponding Tutorial Topics
-
-useState
-
- 1.Birthday Reminder
 
